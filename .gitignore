@@ -107,8 +107,8 @@ dist
 
 # Docusaurus cache and generated files
 .docusaurus
-.pdf
-.jpg
+**/*.pdf
+**/*.jpg
 
 # Serverless directories
 .serverless/
